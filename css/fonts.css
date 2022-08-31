@@ -1,0 +1,39 @@
+body,
+a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 400%;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 200%;
+    font-weight: 500;
+}
+
+p {
+    font-size: 150%;
+}
+
+h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    font-size: 125%;
+}
+
+div.caption p {
+    font-size: 125%;
+}
+
+.header a {
+    font-size: 175%;
+}
+
+div.textbox{
+    border-radius: 10px;
+}

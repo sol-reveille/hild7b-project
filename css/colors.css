@@ -1,0 +1,47 @@
+body{
+    background-color: #eae2b7;
+}
+
+.header a.navlink{
+    background-color: #264653;
+    color: white;
+    text-decoration: none;
+}
+
+.header a:hover{
+    background-color: #2a9d8f;
+    color: white;
+}
+
+.header{
+    background: transparent;
+}
+
+div.textbox{
+    border-color: #e76f51;
+    background-color: #f4a261;
+}
+
+h1, h2, p{
+    color: #264653;
+}
+
+div#context2{
+    background-color: #2a9d8f;
+    color: white;
+}
+
+div#context1{
+    background-color: #e9c46a;
+}
+
+div#context3{
+    background-color: #e76f51;
+}
+
+div#context3 p,
+div#context3 h2,
+div#context2 p,
+div#context2 h2{
+    color: white;
+}
