@@ -17,8 +17,7 @@ body{
     background: transparent;
 }
 
-div.textbox{
-    border-color: #e76f51;
+div#about{
     background-color: #f4a261;
 }
 
@@ -39,9 +38,15 @@ div#context3{
     background-color: #e76f51;
 }
 
+div#significance{
+    background-color:#264653;
+}
+
 div#context3 p,
 div#context3 h2,
 div#context2 p,
-div#context2 h2{
+div#context2 h2,
+div#significance p,
+div#significance h2{
     color: white;
 }
